@@ -4,8 +4,8 @@ A curated collection of diverse Java applications, utilities, and tools. Explore
 
 # Projects
 
-1. Mini-Calculator.
-2. ScrollBar Implementation.
+1.File: This Java Text Editor is a simple desktop application that allows users to create, open, edit, and save text files. It provides basic functionality similar to a standard text editor, allowing users to perform operations like creating a new document, opening an existing file, saving changes, and exiting the application.
+2. Application:
 
 # Contributing
 
